@@ -1,0 +1,1 @@
+Hi, in this project I will demonstrate the skills I have learned through the introductory lessons of The Odin Project. The final result will be a basic recipe website built only with html language.
