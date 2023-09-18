@@ -1,21 +1,33 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     color: black;
-    background-color: burlywood;
+    background-color: rgb(171, 112, 35);
 }
 
 .title {
+    width: 400px;
+    margin: 0 auto;
+    border: solid black 10px;
+    padding: 20px;
+    background-color: tomato;
     text-align: center;
-    background-color: #dc143c99;
-    color: yellow;
+    color: #ffffff;
     font-weight: bold;
     font-size: 50px;
     font-family: Futura, sans-serif;
 }
 
 .list {
-    text-align: left;
+    border: solid black 10px;
+    width: 600px;
+    margin: 30px auto;
+    padding: 30px;
     font-size: 25px;
     font-weight: bold;
-    background-color: #ee82ee99;
+    background-color: antiquewhite;
+    color: tomato;
+}
+
+li {
+    margin: 30px;
 }
